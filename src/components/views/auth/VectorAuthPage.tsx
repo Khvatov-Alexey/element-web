@@ -77,7 +77,6 @@ export default class VectorAuthPage extends React.PureComponent {
                         {this.props.children}
                     </div>
                 </div>
-                <VectorAuthFooter />
             </div>
         );
     }

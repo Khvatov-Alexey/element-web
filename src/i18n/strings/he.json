@@ -25,8 +25,8 @@
         "title": "דפדפן לא נתמך"
     },
     "powered_by_matrix": "מופעל על ידי מטריקס",
-    "powered_by_matrix_with_logo": "צ'אט מבוזר ומוצפן &amp; מופעל בשיתוף פעולה ע\"י $matrixLogo",
+    "powered_by_matrix_with_logo": "צ'אט מבוזר ומוצפן &amp; מופעל בשיתוף פעולה ע\"י",
     "unknown_device": "מכשיר לא ידוע",
     "web_default_device_name": "%(appName)s: %(browserName)s עַל %(osName)s",
-    "welcome_to_element": "ברוכים הבאים ל Element"
+    "welcome_to_element": "ברוכים הבאים ל РЕД V"
 }

@@ -25,8 +25,8 @@
         "title": "Navigateur non pris en charge"
     },
     "powered_by_matrix": "Propulsé par Matrix",
-    "powered_by_matrix_with_logo": "Messagerie décentralisée, chiffrée &amp; une collaboration alimentée par $matrixLogo",
+    "powered_by_matrix_with_logo": "Messagerie décentralisée, chiffrée &amp; une collaboration",
     "unknown_device": "Appareil inconnu",
     "web_default_device_name": "%(appName)s : %(browserName)s pour %(osName)s",
-    "welcome_to_element": "Bienvenue sur Element"
+    "welcome_to_element": "Bienvenue sur РЕД V"
 }

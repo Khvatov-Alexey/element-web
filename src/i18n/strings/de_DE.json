@@ -25,8 +25,8 @@
         "title": "Nicht unterstützter Browser"
     },
     "powered_by_matrix": "Betrieben mit Matrix",
-    "powered_by_matrix_with_logo": "Dezentralisierter, verschlüsselter Chat &amp; Zusammenarbeit unterstützt von $matrixLogo",
+    "powered_by_matrix_with_logo": "Dezentralisierter, verschlüsselter Chat &amp; Zusammenarbeit",
     "unknown_device": "Unbekanntes Gerät",
     "web_default_device_name": "%(appName)s: %(browserName)s auf %(osName)s",
-    "welcome_to_element": "Willkommen bei Element"
+    "welcome_to_element": "Willkommen bei РЕД V"
 }

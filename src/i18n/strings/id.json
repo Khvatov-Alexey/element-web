@@ -25,8 +25,8 @@
         "title": "Peramban tidak didukung"
     },
     "powered_by_matrix": "Diberdayakan oleh Matrix",
-    "powered_by_matrix_with_logo": "Obrolan &amp; kolaborasi terdesentralisasi dan terenkripsi diberdayakan oleh $matrixLogo",
+    "powered_by_matrix_with_logo": "Obrolan &amp; kolaborasi terdesentralisasi dan terenkripsi diberdayakan",
     "unknown_device": "Perangkat tidak diketahui",
     "web_default_device_name": "%(appName)s: %(browserName)s di %(osName)s",
-    "welcome_to_element": "Selamat datang di Element"
+    "welcome_to_element": "Selamat datang di РЕД V"
 }

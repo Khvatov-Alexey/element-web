@@ -25,8 +25,8 @@
         "title": "Nepodporovaný prohlížeč"
     },
     "powered_by_matrix": "Běží na Matrixu",
-    "powered_by_matrix_with_logo": "Decentralizovaný, šifrovaný chat a spolupráce na platformě $matrixLogo",
+    "powered_by_matrix_with_logo": "Decentralizovaný, šifrovaný chat a spolupráce",
     "unknown_device": "Neznámé zařízení",
     "web_default_device_name": "%(appName)s: %(browserName)s na %(osName)s",
-    "welcome_to_element": "Vítá vás Element"
+    "welcome_to_element": "Vítá vás РЕД V"
 }

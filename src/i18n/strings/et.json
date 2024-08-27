@@ -25,8 +25,8 @@
         "title": "Sellele brauserile puudub tugi"
     },
     "powered_by_matrix": "Põhineb Matrix'il",
-    "powered_by_matrix_with_logo": "Hajutatud ja krüpteeritud suhtlus- ning ühistöörakendus, mille aluseks on $matrixLogo",
+    "powered_by_matrix_with_logo": "Hajutatud ja krüpteeritud suhtlus- ning ühistöörakendus",
     "unknown_device": "Tundmatu seade",
     "web_default_device_name": "%(appName)s: %(browserName)s operatsioonisüsteemis %(osName)s",
-    "welcome_to_element": "Tere tulemast kasutama suhtlusrakendust Element"
+    "welcome_to_element": "Tere tulemast kasutama suhtlusrakendust РЕД V"
 }

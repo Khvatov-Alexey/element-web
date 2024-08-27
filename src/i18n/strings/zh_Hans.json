@@ -25,8 +25,8 @@
         "title": "不支持的浏览器"
     },
     "powered_by_matrix": "由 Matrix 驱动",
-    "powered_by_matrix_with_logo": "去中心化、加密的聊天与协作，由 $matrixLogo 驱动",
+    "powered_by_matrix_with_logo": "去中心化、加密的聊天与协作，由 驱动",
     "unknown_device": "未知设备",
     "web_default_device_name": "%(appName)s：%(browserName)s在%(osName)s",
-    "welcome_to_element": "欢迎来到 Element"
+    "welcome_to_element": "欢迎来到 РЕД V"
 }

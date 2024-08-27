@@ -25,8 +25,8 @@
         "title": "Неподдерживаемый браузер"
     },
     "powered_by_matrix": "На технологии Matrix",
-    "powered_by_matrix_with_logo": "Децентрализованное, зашифрованное общение и сотрудничество на основе $matrixLogo",
+    "powered_by_matrix_with_logo": "Децентрализованное, зашифрованное общение и сотрудничество",
     "unknown_device": "Неизвестное устройство",
     "web_default_device_name": "%(appName)s: %(browserName)s на %(osName)s",
-    "welcome_to_element": "Добро пожаловать в Element"
+    "welcome_to_element": "Добро пожаловать в РЕД V"
 }

@@ -24,8 +24,8 @@
         "title": "Navegador no compatible"
     },
     "powered_by_matrix": "Funciona con Matrix",
-    "powered_by_matrix_with_logo": "Conversaciones y colaboración descentralizadas y cifradas gracias a $matrixLogo",
+    "powered_by_matrix_with_logo": "Conversaciones y colaboración descentralizadas y cifradas",
     "unknown_device": "Dispositivo desconocido",
     "web_default_device_name": "%(appName)s: %(browserName)s en %(osName)s",
-    "welcome_to_element": "Te damos la bienvenida a Element"
+    "welcome_to_element": "Te damos la bienvenida a РЕД V"
 }

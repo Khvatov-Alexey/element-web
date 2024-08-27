@@ -24,8 +24,8 @@
         "title": "Navegador non soportado"
     },
     "powered_by_matrix": "Funciona grazas a Matrix",
-    "powered_by_matrix_with_logo": "Conversas &amp; colaboración descentralizadas e cifradas grazas a $matrixLogo",
+    "powered_by_matrix_with_logo": "Conversas &amp; colaboración descentralizadas e cifradas",
     "unknown_device": "Dispositivo descoñecido",
     "web_default_device_name": "%(appName)s: %(browserName)s en %(osName)s",
-    "welcome_to_element": "Benvida/o a Element"
+    "welcome_to_element": "Benvida/o a РЕД V"
 }

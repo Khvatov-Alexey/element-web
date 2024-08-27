@@ -23,8 +23,8 @@
     "incompatible_browser": {
         "title": "サポートされていないブラウザー"
     },
-    "powered_by_matrix_with_logo": "$matrixLogo による、分散型で暗号化された会話とコラボレーション",
+    "powered_by_matrix_with_logo": "による、分散型で暗号化された会話とコラボレーション",
     "unknown_device": "不明な端末",
     "web_default_device_name": "%(appName)s： %(osName)sの%(browserName)s",
-    "welcome_to_element": "Elementにようこそ"
+    "welcome_to_element": "РЕД Vにようこそ"
 }

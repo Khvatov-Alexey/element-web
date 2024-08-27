@@ -25,8 +25,8 @@
         "title": "Trình duyệt không được hỗ trợ"
     },
     "powered_by_matrix": "Chạy trên giao thức Matrix",
-    "powered_by_matrix_with_logo": "Dịch vụ nhắn tin &amp; liên lạc được mã hóa, phi tập trung. Được vận hành trên $matrixLogo",
+    "powered_by_matrix_with_logo": "Dịch vụ nhắn tin &amp; liên lạc được mã hóa, phi tập trung",
     "unknown_device": "Thiết bị không xác định",
     "web_default_device_name": "%(appName)s: %(browserName)s trên %(osName)s",
-    "welcome_to_element": "Chào mừng tới Element"
+    "welcome_to_element": "Chào mừng tới РЕД V"
 }

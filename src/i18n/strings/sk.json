@@ -25,8 +25,8 @@
         "title": "Nepodporovaný prehliadač"
     },
     "powered_by_matrix": "používa protokol Matrix",
-    "powered_by_matrix_with_logo": "Decentralizované, šifrované konverzácie a spolupráca na platforme $matrixLogo",
+    "powered_by_matrix_with_logo": "Decentralizované, šifrované konverzácie",
     "unknown_device": "Neznáme zariadenie",
     "web_default_device_name": "%(appName)s: %(browserName)s na %(osName)s",
-    "welcome_to_element": "Víta vás Element"
+    "welcome_to_element": "Víta vás РЕД V"
 }

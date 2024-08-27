@@ -22,8 +22,8 @@
     "incompatible_browser": {
         "title": "Browser insuportado"
     },
-    "powered_by_matrix_with_logo": "Chat descentralizado e encriptado & colaboração, powered by $matrixLogo",
+    "powered_by_matrix_with_logo": "Chat descentralizado e encriptado & colaboração",
     "unknown_device": "Dispositivo desconhecido",
     "web_default_device_name": "%(appName)s: %(browserName)s em %(osName)s",
-    "welcome_to_element": "Boas-vindas a Element"
+    "welcome_to_element": "Boas-vindas a РЕД V"
 }
