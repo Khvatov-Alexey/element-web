@@ -1,11 +1,11 @@
 {
-    "name": "element-web",
-    "version": "1.11.75",
-    "description": "A feature-rich client for Matrix.org",
-    "author": "New Vector Ltd.",
+    "name": "red-v-web",
+    "version": "1.0.0",
+    "description": "Многофункциональный клиент РЕД V",
+    "author": "РЕД СОФТ",
     "repository": {
         "type": "git",
-        "url": "https://github.com/element-hq/element-web"
+        "url": "https://github.com/Khvatov-Alexey/element-web"
     },
     "license": "Apache-2.0",
     "files": [
